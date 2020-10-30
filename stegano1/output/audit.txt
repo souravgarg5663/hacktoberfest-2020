@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Oct 30 12:54:50 2020
+Invocation: foremost poi.png 
+Output directory: /home/wizard/Downloads/stegano1/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: poi.png
+Start: Fri Oct 30 12:54:50 2020
+Length: 156 KB (159789 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     156 KB 	          0 	  (309 x 307)
+Finish: Fri Oct 30 12:54:50 2020
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Oct 30 12:54:50 2020
